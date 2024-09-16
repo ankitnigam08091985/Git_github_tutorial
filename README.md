@@ -8,4 +8,5 @@ It includes various steps
 6. Login/register to Github using Git email-address or username.
 7. Create repository in Github.
 8. Push the local repository to Github repository.
-9. For any further changes, do it new branch and then merge it with the main branch
+9. For any further changes, do it new branch and then merge it with the main branch.
+10. We can create and merge the new branch from Github also and later can pull it in local Git repository.
